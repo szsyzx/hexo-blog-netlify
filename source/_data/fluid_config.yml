@@ -21,11 +21,7 @@ links:
   banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
   banner_img_height: 80
   items:
-    - title: Fluid Repo
-      intro: 主题 GitHub 仓库
-      link: https://github.com/fluid-dev/hexo-theme-fluid
-      avatar: /img/favicon.png
-    - title: 暮雨千泷
+    - title: 花开陌路
       intro: 青天白日梦神仙
       link: https://www.myql.xyz
       avatar: https://cdn.jsdelivr.net/gh/leicancun/JSCDN@master/images/circle-cropped.webp
